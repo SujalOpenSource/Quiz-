@@ -1,0 +1,36 @@
+ID: 1
+CATEGORY: JAVA_BASICS
+QUESTION: Which keyword creates an object in Java?
+A: class
+B: new
+C: object
+D: create
+ANSWER: B
+---
+ID: 2
+CATEGORY: GAMES
+QUESTION: Which game is known for the character Mario?
+A: FIFA
+B: Minecraft
+C: Super Mario
+D: PUBG
+ANSWER: C
+---
+ID: 3
+CATEGORY: COLLECTIONS
+QUESTION: Which collection does not allow duplicate elements?
+A: ArrayList
+B: HashSet
+C: LinkedList
+D: Vector
+ANSWER: B
+---
+ID: 4
+CATEGORY: GAMES
+QUESTION: Which country won the 2026 FIFA WorldCup?
+A: Argentina
+B: Brazil
+C: Spain
+D: France
+ANSWER: C
+---
